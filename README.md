@@ -1,4 +1,4 @@
-# gillette_pundrich_grammar
+# gillette & pundrich (2019)
 
 This repository contains the files used in the paper  "Investments in Accounting Resources and the Implications for External Reporting and Disclosure" by:
 
