@@ -1,4 +1,11 @@
 # gillette_pundrich_grammar
+
+This repository contains the files used in the paper  "Investments in Accounting Resources and the Implications for External Reporting and Disclosure" by:
+
+Jacquelyn Gillette Massachusetts Institute of Technology (MIT) - Sloan School of Management
+Gabriel Pündrich Bocconi University
+The paper can be downloaded at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3496434
+
 To run a grammar check go through the following steps:
 
 1 - Download the code available on this repository or on https://www.dropbox.com/sh/adqtiugkwv602f0/AABBu26YJKJxplipV2zfp5IWa?dl=0
