@@ -1,7 +1,7 @@
 # gillette_pundrich_grammar
 To run a grammar check go through the following steps:
 
-1 - Download the code available on https://www.dropbox.com/s/9kkm1fzbcm5sur5/Grammar_distro.zip?dl=0
+1 - Download the code available on this repository or on https://www.dropbox.com/sh/adqtiugkwv602f0/AABBu26YJKJxplipV2zfp5IWa?dl=0
 
 2 - To install the library used in this paper type the following command on the Python prompt:
 pip install --upgrade language-check
