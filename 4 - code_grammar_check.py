@@ -17,7 +17,7 @@ path_env = "/Users/pundrich/Dropbox/gillette-pundrich-grammar/mate/Grammar_distr
 ###############################################################################
 
 path_out=path_code = path_env + "/output/"
-path_mda = path_env + "/files_grammar/"
+path_mda = path_env + "/input_grammar/"
 
 files_to_processed = []
 for (dirpath, dirnames, filenames) in walk(path_mda):
